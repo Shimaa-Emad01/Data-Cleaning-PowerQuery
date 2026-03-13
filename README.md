@@ -64,7 +64,7 @@ The final dataset is fully cleaned and structured, making it ready for:
 
 Power Query transformation steps:
 
-![Power Query Steps](power_query_steps.png)
+![Power Query Steps](image.png)
 
 ---
 
